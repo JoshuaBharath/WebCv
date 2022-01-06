@@ -856,3 +856,8 @@ footer {
 .companyYear {
   font-size: 17px;
 }
+
+#img5 {
+  width: 50%;
+  margin-left: 10px;
+}
